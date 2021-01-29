@@ -9,6 +9,6 @@ In this project, I will retrieve general education courses from UC Merced's Soci
 
 Additionally, I will create spreadsheets that will cross-reference the general education courses overlapping with the courses associated with the Intellectual badges.
 
- - The complete source code to create an Excel workbook with multiple worksheets is located in the file /src/scrape.py.
- - A sort-of-tutorial to create pandas dataframes of the items listed is located in the Jupyter Notebook file notebook.ipynb.
- - The resulting workbook is located in the file /data/CrossReferenceGE-Badges.xlsx
+ - The complete source code to create an Excel workbook with multiple worksheets is located in the file */src/scrape.py*.
+ - A sort-of-tutorial to create pandas dataframes of the items listed is located in the Jupyter Notebook file *notebook.ipynb*.
+ - The resulting workbook is located in the file */data/CrossReferenceGE-Badges.xlsx*.
