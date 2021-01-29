@@ -7,7 +7,7 @@ At UC Merced, undergraduate students must complete classes affiliated with a set
 In this project, I will retrieve general education courses from UC Merced's Social Sciences and Arts & Humanities website and compile them into a spreadsheet. I will also scrape links to the 11 different badge websites and retrieve their respective courses from these links and compile them into a spreadsheet.
 &nbsp;  
 
-Additionally, I will also create spreadsheets that will cross-reference the general education courses that overlap with the courses associated with the Intellectual badges.
+Additionally, I will create spreadsheets that will cross-reference the general education courses overlapping with the courses associated with the Intellectual badges.
 
  - The complete source code to create an Excel workbook with multiple worksheets is located in the file /src/scrape.py.
  - A sort-of-tutorial to create pandas dataframes of the items listed is located in the Jupyter Notebook file notebook.ipynb.
