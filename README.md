@@ -1,5 +1,5 @@
 # GE_Analysis
-Scrapes and analyzes GE course requirements
+__Scrapes and analyzes GE course requirements__
 
 At UC Merced, undergraduate students must complete classes affiliated with a set of 11 Intellectual badges along with their general education requirements in order to graduate. The classes associated with these 11 badges are spread across 11 different websites and the classes associated with the general education requirements are also located at yet other websites. This makes it a non-trivial task for student counselors to keep track of and best advise their students.
 &nbsp;  
